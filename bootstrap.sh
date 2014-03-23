@@ -14,6 +14,10 @@ sudo service mongodb start
 #Install Node Global
 sudo npm install -g grunt-cli
 sudo npm install -g coffee-script
+sudo npm install -g coffee-script
 
 #Install Git
 sudo apt-get install -y git-core
+
+#Install Meteor
+curl https://install.meteor.com | /bin/sh
