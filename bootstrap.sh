@@ -9,3 +9,4 @@ sudo apt-get install nodejs
 sudo apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv 7F0CEB10
 sudo apt-get update
 sudo apt-get install mongodb-10gen
+sudo service mongodb start
