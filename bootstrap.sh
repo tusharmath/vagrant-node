@@ -13,7 +13,7 @@ sudo service mongodb start
 
 #Install Node Global
 sudo npm install -g grunt-cli
-sudo npm install -g coffee-script
+sudo npm install -g bower
 sudo npm install -g coffee-script
 
 #Install Git
