@@ -24,7 +24,7 @@ sudo apt-get install -y git-core
 git config --global color.ui true
 
 #Install Meteor
-curl https://install.meteor.com | /bin/sh
+#curl https://install.meteor.com | /bin/sh
 
 #Clone 
 git clone git@github.com:node-classifieds/node-classifieds.git ~/work-space
